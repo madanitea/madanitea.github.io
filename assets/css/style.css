@@ -8,10 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+* {
+  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  overflow: hidden;
 }
 
 a {

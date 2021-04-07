@@ -9,9 +9,7 @@
 # General
 --------------------------------------------------------------*/
 * {
-  overflow: hidden;
-  overflow-y: hidden;
-  overflow-x: hidden;
+  /* overflow: hidden; */
 }
 
 body {
